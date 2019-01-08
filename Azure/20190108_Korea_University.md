@@ -13,3 +13,6 @@
 
 4. 서버 리스 응용 프로그램 만들기 
 [https://docs.microsoft.com/ko-kr/learn/paths/create-serverless-applications/ ](https://docs.microsoft.com/ko-kr/learn/paths/create-serverless-applications/ )
+
+5. 참고자료 
+[https://github.com/KoreaEva/HOL/blob/master/Azure/20190108_Korea_University/microsoftazure-technicaloverview-170405213706.pdf](https://github.com/KoreaEva/HOL/blob/master/Azure/20190108_Korea_University/microsoftazure-technicaloverview-170405213706.pdf)
