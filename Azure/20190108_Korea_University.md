@@ -1,7 +1,7 @@
 # 20190108 고려대학교 Cloud HOL
 
-이 HOL은 Microsoft Learn을 기반으로 진행된다. 
-
+이 HOL은 Microsoft Learn을 기반으로 진행된다. 3시간으로 부족하다. 
+   
 1. Azure 기본 사항<br>
 [https://docs.microsoft.com/ko-kr/learn/paths/azure-fundamentals/ ](https://docs.microsoft.com/ko-kr/learn/paths/azure-fundamentals/ )
 
