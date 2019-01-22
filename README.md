@@ -1,9 +1,9 @@
 # HOL
 Hands on Labs들을 모아두는 Repository 입니다. 
 
-### 20190216 가장 빨리 만나는 챗봇 프로그래밍
-LangCon에서 진행하는 Hands On Labs 세션과 관련된 냉용입니다. 
-[https://github.com/KoreaEva/HOL/tree/master/Azure/20190216%20Chatbot](https://github.com/KoreaEva/HOL/tree/master/Azure/20190216%20Chatbot)
+### 20190223 가장 빨리 만나는 챗봇 프로그래밍
+KCD에서 진행하는 Hands On Labs 세션과 관련된 냉용입니다. 
+[https://github.com/KoreaEva/HOL/tree/master/Azure/20190223%20Chatbot](https://github.com/KoreaEva/HOL/tree/master/Azure/20190223%20Chatbot)
 
 ### 20190121 TTT
 5일짜리 AI 교육 과정 중 Day 1 내용 입니다. Cognitive Service, Azure ML Studio를 포함한 내용입니다.
