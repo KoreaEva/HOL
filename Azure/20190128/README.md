@@ -1,6 +1,7 @@
 ![./images/001.jpg](./images/001.jpg)
 
 - 화장실은 들어온 입구로 나가셔서 왼쪽에 있습니다.<br>
+- 홀에 있는 커피 (원두 및 커피머신)은 자유롭게 사용해 주시면 됩니다.<br>
 - 인터넷은 MSFT_GUEST 로 접속하시면 됩니다. 접속 후 Event 코드는 msevent490ah를 입력하시면 됩니다. <br>
 - 실습에는 Microsoft 계정이 필요합니다. 계정이 없거나 기억나지 않으시는 분들은 [https://signup.live.com](https://signup.live.com) 에서 다시 만들어 주시기 바립니다.
 
