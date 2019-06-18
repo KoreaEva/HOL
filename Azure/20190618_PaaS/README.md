@@ -37,6 +37,10 @@ Github [http://github.com](github.com)<br>
 ## 설치 프로그램
 
 1. Git [https://git-scm.com/downloads](https://git-scm.com/downloads)<br>
+```bash
+$ git config --global user.name "John Doe"
+$ git config --global user.email "johndoe@example.com"
+```
 2. Visual Studio Code [https://code.visualstudio.com/download](https://code.visualstudio.com/download)<br>
 3. MySQL Workbench [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)<br>
 
