@@ -3,7 +3,7 @@ Hands on Labs들을 모아두는 Repository 입니다.
 
 ### 20220117 DP-900
 DP-900 과정 실습을 위한 내용들을 정리해 두었습니다. 
-[https://github.com/KoreaEva/HOL/DP-900/DP-900.md](https://github.com/KoreaEva/HOL/DP-900/DP-900.md) 
+[https://github.com/KoreaEva/HOL/DP-900/DP-900.md](https://github.com/KoreaEva/HOL/blob/master/DP-900/DP-900.md) 
 
 ### 20190618 Partner 들을 위한 PaaS 교육
 DMOA에서 진행되는 Partner들을 위한 핸즈온 세션입니다. 
