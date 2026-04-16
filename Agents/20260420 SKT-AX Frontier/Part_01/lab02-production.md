@@ -4,7 +4,7 @@
 
 "어이 한 과장, 아까 그거 보니까 우리 팀 애들 맨날 보고서 쓰느라 야근하는데, 그거 다 같이 쓰면 좋겠더라고? 지금 당장 그... 뭐냐, 링크 좀 복사해서 우리 팀 단톡방에 쫙 뿌려봐!"
 
-![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_01/images/lab-01-04.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_01/images/lab-02-01.png?raw=true)
 
 2. 송희의 동공지진: "부장님, 이건 제 '자식' 같은 개인용이라구요!"
 맗은 그렇게 했지만 송희 과장은 이걸 어떻게 공유해야 하는지 전혀 몰랐다. 
@@ -16,7 +16,7 @@
 3. 나철벽 대리의 ‘실무 팩트 폭격’
 어디선가 나타난 보안팀 나철벽 대리. 그는 오늘도 차도남의 표정을 하구서, 송희 과장의 허공을 휘젓는 마우스 커서를 한심하게 쳐다봅니다.
 
-![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_01/images/lab-01-05.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_01/images/lab-02-02.png?raw=true)
 
 “한 과장님, 그럴때는 운영 전환 기능을 쓰시면 됩니다. Polaris Studio 만든 것들로 실제 업무에 적용하는데 필 수적인 과정이죠”
 
