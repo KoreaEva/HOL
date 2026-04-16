@@ -9,7 +9,7 @@
 결국 송희 과장은 에이전트가 답변을 주면 그걸 복사해서, 아웃룩을 켜고, 이름을 검색하고, 붙여넣고, '발송'을 누르는 **‘인간 가공 센터’**로 전락했습니다. 
 "아니, AI가 똑똑하면 뭐 해? 내가 메일 셔틀인데!"
 
-![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab-02-01.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab02-01.png?raw=true)
 
 ### 2. 구원자 박나례 대리의 등장
 송희 과장이 100번째 메일 발송 버튼을 누르며 영혼 가출 상태일 때, 옆자리 **박나례 대리**가 슬며시 고개를 내밀었습니다. 나례 대리는 평소 '퇴근의 달인'으로 불리며, 모든 업무를 자동화해버리는 실무의 귀재였죠.
@@ -21,7 +21,7 @@
 
 "언니, 에이전트한테 입(채팅)만 만들어주지 말고 **손(Tool)**을 달아줘야죠. 여기 **'Send_Email'**이라는 도구 보이죠? 이걸 연결하면 에이전트가 직접 아웃룩 API를 호출해서 메일을 보낼 수 있다니까요."
 
-![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab-02-02.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab02-02.png?raw=true)
 
 송희 과장의 눈이 번쩍 뜨였습니다. "뭐?! 그럼 내가 메일창을 안 열어도 된다고?"
 
@@ -32,4 +32,4 @@
 
  '철벽씨는 정말 일을 열심히 하는 사람일까 아니면 할일이 없는 사람일까?' 고민하면서 송희 과장은 지침을 고민하기 시작했다. 
 
- ![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab-02-03.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab02-03.png?raw=true)

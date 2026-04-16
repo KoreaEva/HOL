@@ -2,7 +2,7 @@
 
 ### 1. 인간 컴퓨터의 부재, 그리고 대혼란
 
-![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab-01-01.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab01-01.png?raw=true)
 
 김영웅 사원이 교육을 떠난 지 단 3시간 만에 팀의 업무는 쌓여가고 있었다. 
 “영웅 씨, 이거 6G 망 최적화 수식 어디 있지?”, “영웅 씨, 지난달 T-우주 가입자 이탈률 로직이 뭐야?” 
@@ -15,7 +15,7 @@
 
 그곳에는 **[영웅의 업무 백과사전]**이라는 이름으로, 지난 1년간의 모든 업무 로직, 장애 대응 매뉴얼, 심지어 ‘부장님 기분별 보고 타이밍 가이드’까지 소수점 단위로 꼼꼼하게 정리되어 있었죠. 
 
-![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab-01-02.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab01-02.png?raw=true)
 
 “이건 그냥 문서가 아니야… 이건 영웅이의 **‘디지털 소울(Soul)’** 그 자체야!”
 
@@ -33,4 +33,4 @@
 
  역시 나철벽 대리는 찔러도 피 한방울 안나올 것이 분명했다.
 
- ![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab-01-03.png?raw=true)
+![image](https://github.com/KoreaEva/HOL/blob/master/Agents/20260420%20SKT-AX%20Frontier/Part_02/images/lab01-03.png?raw=true)
